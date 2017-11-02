@@ -1,0 +1,1 @@
+sass --watch "D:\WebServers\home\land2.by\www\css\style.scss:D:\WebServers\home\land2.by\www\css\style.css"
